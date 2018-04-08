@@ -72,6 +72,10 @@ mv ~/.config/i3 config/i3/
 ./install
 ```
 
+## Keeping everything in different local configurations
+
+It's better not to use this repo, use and follow instructions of this one: <https://github.com/kietoparao/dotfiles-local>. If doing so, next section can be omitted.
+
 ## Git actions
 
 ### Adding and commiting changes
